@@ -1,4 +1,4 @@
-package FunctionalInterfaces;
+package FunctionalInterfaceAnotation;
 
 import java.util.List;
 

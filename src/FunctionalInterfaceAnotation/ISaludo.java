@@ -1,4 +1,4 @@
-package FunctionalInterfaces;
+package FunctionalInterfaceAnotation;
 
 @FunctionalInterface
 public interface ISaludo {
